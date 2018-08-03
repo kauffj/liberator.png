@@ -2,7 +2,7 @@
 
 Is this an image? Or is it a gun?
 
-![This Is A Gun.png][https://spee.ch/@kauffj:f/thisisagun.png]
+![This Is A Gun.png](https://spee.ch/@kauffj:f/thisisagun.png "This is a Gun")
 
 With just a few lines of code, the above image can be converted back into the STL files for the Liberator, a 3D-printable gun created by Defense Distributed.
 
